@@ -1,5 +1,0 @@
-version: 0.0
-os: linux
-files:
-  - source: /index.jsp
-    destination: /opt/tomcat/data/
